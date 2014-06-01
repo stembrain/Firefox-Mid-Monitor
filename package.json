@@ -1,0 +1,9 @@
+{
+  "name": "firefox-mid-monitor",
+  "title": "Firefox-Mid-Monitor",
+  "id": "jid1-hKDlNBLL99nTVQ",
+  "description": "adds extra height to documents so user can scroll content to the middle of the screen",
+  "author": "David Mann (stembrain)",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
