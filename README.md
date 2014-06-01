@@ -1,7 +1,6 @@
 Firefox-Mid-Monitor
 ===================
 
-## Overview
 This is a Firefox XPI extension that adds extra height to the window so content can be scrolled to the middle of your monitor.
 
 To build the project, [install the cfx tool][1] first. Then run 'cfx xpi' from the root of this repo.
@@ -10,7 +9,7 @@ The file structure of this project is a modified version of the sample extension
 
 Tested on Firefox 26.
 
-## References
+#### References
 * [Firefox Add-ons Tutorial: Getting Started][2]
 * [Firefox Add-ons Tutorial: Modifying the Page Hosted by a Tab][3]
 * [Firefox Add-ons API: page-mod][4]
