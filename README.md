@@ -10,7 +10,7 @@ The file structure of this project is a modified version of the sample extension
 
 Tested on Firefox 26.
 
-## References:
+## References
 * [Firefox Add-ons Tutorial: Getting Started][2]
 * [Firefox Add-ons Tutorial: Modifying the Page Hosted by a Tab][3]
 * [Firefox Add-ons API: page-mod][4]
